@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Skills</title>
+</head>
+<body>
+
+  <h2>My Skills</h2>
+
+  <!-- Unordered List of Skills -->
+  <ul>
+    <li>HTML <progress value="90" max="100"></progress></li>
+    <li>CSS <progress value="75" max="100"></progress></li>
+    <li>JavaScript <progress value="60" max="100"></progress></li>
+    <li>SQL <progress value="80" max="100"></progress></li>
+  </ul>
+
+  <h2>Alternative with Ordered List</h2>
+
+  <!-- Ordered List with <meter> -->
+  <ol>
+    <li>Python <meter value="0.85" min="0" max="1">85%</meter></li>
+    <li>Java <meter value="0.70" min="0" max="1">70%</meter></li>
+    <li>C++ <meter value="0.65" min="0" max="1">65%</meter></li>
+  </ol>
+
+</body>
+</html>
