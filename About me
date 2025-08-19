@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Intro Example</title>
+</head>
+<body>
+
+  <p>
+    Hello, my name is <b>Priya</b>. I am learning 
+    <i>web development</i> and practicing HTML tags.  
+    This is my <u>first assignment</u> where I write 
+    a short introduction using basic formatting.  
+  </p>
+
+</body>
+</html>
