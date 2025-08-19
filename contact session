@@ -1,0 +1,43 @@
+// ul
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<section>
+  <h2>Contact</h2>
+  <ul>
+    <li>Email: <a href="mailto:you@example.com">gargpriya9359@gmail.com</a></li>
+    <li>Phone: <a href="tel:+1234567890">9220373532</a></li>
+    <li>LinkedIn: <a href="www.linkedin.com/in/priya-aggarwal-4b13b0327" target="_blank" rel="noopener noreferrer">
+      linkedin.com/in/your-handle</a></li>
+  </ul>
+</section>
+  </body>
+// dl
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <section>
+  <h2>Contact</h2>
+  <dl>
+    <dt>Email</dt>
+    <dd><a href="mailto:you@example.com">gargprya9359@gmail.com</a></dd>
+
+    <dt>Phone</dt>
+    <dd><a href="tel:+1234567890">9220373532</a></dd>
+
+    <dt>LinkedIn</dt>
+    <dd><a href="www.linkedin.com/in/priya-aggarwal-4b13b0327" target="_blank" rel="noopener noreferrer">
+      linkedin.com/in/your-handle</a></dd>
+  </dl>
+</section>
+</body>
