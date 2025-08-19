@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Hobbies</title>
+</head>
+<body>
+
+  <h2>My Hobbies</h2>
+
+  <!-- Unordered List with Emojis -->
+  <ul>
+    <li> Reading Books</li>
+    <li>Listening to Music</li>
+    <li>Playing Football</li>
+    <li> Traveling</li>
+    <li> Drawing & Painting</li>
+    <li> Coding</li>
+  </ul>
+
+</body>
+</html>
